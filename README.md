@@ -77,7 +77,6 @@ namespace Exp4
 ```
  
  ## Output:
- ![Screenshot (186)](https://user-images.githubusercontent.com/75234807/167077088-780c80a8-31b1-44f8-b9ee-c44bb19283fa.png)
  
  ## Result:
 Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
